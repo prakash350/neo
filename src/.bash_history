@@ -8,3 +8,5 @@ sudo apt-get install maven
 ls
 su root
 exit
+su root
+exit
